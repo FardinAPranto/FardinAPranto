@@ -4,14 +4,14 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Quantum+Architect;Building+Scalable+Tech+Ecosystems;Innovating+with+AI,+Quantum+%26+Cloud" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Quantum+Architect;Founder+of+Fardinium+Innovations;Social+Entrepreneur+%40+Ichhe-Puron;Building+Scalable+Tech+Ecosystems" alt="Typing SVG" />
   </a>
 </h3>
 
 <div align="center">
   <p>
     <b>👨‍💻 Founder & CEO of <a href="https://fardiniuminnovations.com">Fardinium Innovations</a></b><br>
-    Based in Bangladesh 🇧🇩 | Decrypting the Universe via Code
+    Based in <b>Cumilla, Bangladesh 🇧🇩</b> | Decrypting the Universe via Code
   </p>
   
   <p align="center">
@@ -24,6 +24,9 @@
     <a href="mailto:contact@fardiniuminnovations.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <a href="https://www.facebook.com/fardin.alam.p">
+       <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a>
   </p>
 </div>
 
@@ -31,79 +34,67 @@
 
 ### 🚀 Professional Overview
 
-> *"The best way to predict the future is to invent it."*
+> *"Using engineering principles to design, develop, and evaluate the future."*
 
-I am a **Software Engineer** and **Tech Entrepreneur** with a passion for building large-scale ecosystems. Since 2017, I have been architecting solutions that bridge the gap between complex algorithms and user-friendly interfaces. My focus is on **Sustainable Software Engineering**, **Artificial Intelligence**, and the future of **Quantum Computing**.
+I am **Fardin Alam Pranto**, a passionate **Software Engineer** from **Comilla, Bangladesh**. I specialize in designing and maintaining scalable **Android, iOS, and Web applications**.
 
-* 🔭 **Currently Leading:** The development of the **FI Ecosystem** (A unified platform for Students, Freelancers & Buyers).
-* 🌱 **Researching:** Quantum Algorithms & Next-Gen AI Integration (Project Trinity).
-* 💼 **Experience:** Deploying 300+ Applications across Android, iOS, and Web.
-* 🎓 **Education:** Computer Science & Engineering @ CCN UST.
+Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committed to social responsibility. I actively lead voluntary activities through my organization **"Ichhe-Puron"**. I also contribute to the tech community by offering **online courses** for aspiring developers, dedicating a significant portion of the proceeds to support social causes.
+
+* 🎓 **Education:** Computer Science & Engineering @ **BU**.
+* 🔭 **Current Focus:** Building the **FI Ecosystem** & managing **Ichhe-Puron**.
+* 🌱 **Researching:** Quantum Algorithms, System Architecture & AI.
+* 💼 **Experience:** 300+ Deployments across Mobile & Web Platforms.
 
 ---
 
-### 🛠️ Technical Expertise & Future Tech
+### 🛠️ Engineering Arsenal & Tools
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="icon" width="65" height="65" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="icon" width="65" height="65" />
-      <br>Tailwind
-    </td>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="center" width="120"><b>Frameworks</b></td>
+    <td align="center" width="120"><b>Database/Cloud</b></td>
+    <td align="center" width="120"><b>Tools/OS</b></td>
+    <td align="center" width="120"><b>Creative</b></td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="icon" width="65" height="65" />
-      <br>VS Code
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8a7a-409e-9d47-43486c5598ba.png" alt="icon" width="65" height="65" />
-      <br>Flutter
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/189716630-fe0242b3-63ba-46e2-8243-13a3634e174b.png" alt="icon" width="65" height="65" />
-      <br>Android
+    <td align="center">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="icon" width="65" height="65" />
-      <br>Firebase
+    <td align="center">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="icon" width="65" height="65" />
-      <br>Node.js
+    <td align="center">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
     </td>
   </tr>
 </table>
 
-**🚀 Advanced Research & Future Tech:**
+**🚀 Advanced Research:**
 ![Quantum](https://img.shields.io/badge/Quantum_Computing-black?style=flat-square&logo=atom)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square&logo=openai&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-orange?style=flat-square&logo=scikit-learn&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Complex_Algorithms-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
@@ -111,7 +102,7 @@ I am a **Software Engineer** and **Tech Entrepreneur** with a passion for buildi
 
 | Project Name | Domain | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **FI Ecosystem** | *Platform Architecture* | A comprehensive tech ecosystem connecting Freelancers, Students & Buyers with dedicated dashboards. | 🟢 **Production** |
+| **FI Ecosystem** | *Platform Architecture* | A comprehensive tech ecosystem connecting Freelancers, Students & Buyers. | 🟢 **Production** |
 | **Cumilla e-sheba** | *Smart City / GovTech* | An all-in-one digital service platform for the citizens of Cumilla. | 🟢 **Live** |
 | **Quakely** | *Disaster Management* | An algorithmic earthquake alert system focusing on real-time data processing. | 🛠️ **In-Dev** |
 | **Project Trinity** | *AI & Automation* | Next-generation AI integration for business logic automation. | 🟡 **Beta** |
@@ -133,19 +124,18 @@ I am a **Software Engineer** and **Tech Entrepreneur** with a passion for buildi
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <p>Open to discussions on Tech Architecture, Quantum Theory, and Business Partnerships.</p>
-  
-  <a href="https://facebook.com/fardin.alam.p">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://twitter.com/fardinalam522">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.youtube.com/c/fardinalampranto1394">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=25&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=The+only+way+to+do+great+work+is+to+love+what+you+do+💡;Opportunities+don't+happen.+You+create+them+🚀;Dream+big.+Start+small.+Act+now+🌟" alt="Quotes" />
   </a>
   
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=fardinalampranto&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  
+  <p>👀 <b>Total Profile Visitors</b></p>
+  <a href="https://github.com/fardinalampranto">
+    <img src="https://komarev.com/ghpvc/?username=fardinalampranto&label=Views&color=0e75b6&style=for-the-badge" alt="views" />
+  </a>
+  
+  <br><br>
+  <p>© 2025 Fardin Alam Pranto. All Rights Reserved.</p>
 </div>

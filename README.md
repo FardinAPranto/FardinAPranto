@@ -11,7 +11,7 @@
 <div align="center">
   <p>
     <b>👨‍💻 Founder & CEO of <a href="https://fardiniuminnovations.com">Fardinium Innovations</a></b><br>
-    Based in <b>Cumilla, Bangladesh 🇧🇩</b> | Decrypting the Universe via Code
+    Based in <b>Comilla, Bangladesh 🇧🇩</b> | Decrypting the Universe via Code
   </p>
   
   <p align="center">
@@ -113,12 +113,12 @@ Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committe
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardinalampranto&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinalampranto&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FardinAPranto&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FardinAPranto&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinalampranto&theme=radical&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FardinAPranto&theme=radical&hide_border=false" alt="streak stats" />
 </div>
 
 ---
@@ -132,8 +132,8 @@ Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committe
   <br><br>
   
   <p>👀 <b>Total Profile Visitors</b></p>
-  <a href="https://github.com/fardinalampranto">
-    <img src="https://komarev.com/ghpvc/?username=fardinalampranto&label=Views&color=0e75b6&style=for-the-badge" alt="views" />
+  <a href="https://github.com/FardinAPranto">
+    <img src="https://komarev.com/ghpvc/?username=FardinAPranto&label=Views&color=0e75b6&style=for-the-badge" alt="views" />
   </a>
   
   <br><br>

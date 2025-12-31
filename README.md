@@ -1,38 +1,100 @@
-[![MasterHead](https://www.jonesday.com/-/media/files/publications/2019/05/when-coding-is-criminal/when-coding-is-criminal.jpg?rev=7daa2e80878c4c119b1b3cf1d5864271&h=800&w=1600&la=en&hash=D199BFB81E339067A687CA8DCE856940)](https://codegrills.in)
-<h1 align="center">Hi 👋, I'm Fardin Alam Pranto</h1>
-<h3 align="center">👨‍💻 Full Stack Software Developer | Founder & CEO of Fardinium Innovations
-💡 Passionate about App Development, Web Development, Digital Marketing, and Freelancing
-🎯 Helping beginners build careers in Tech & Freelancing</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" height="250" style="border-radius: 20px; object-fit: cover;">
+  
+  <br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinalampranto&label=Profile%20views&color=0e75b6&style=flat" alt="fardinalampranto" /> </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Initializing+System...;Hello,+I'm+Fardin+Alam+Pranto;Founder+of+Fardinium+Innovations;Quantum+Architect+%26+Software+Engineer;Loading+Project+Trinity...;Access+Granted." alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardinalampranto" alt="fardinalampranto" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/fardinalam522" target="blank"><img src="https://img.shields.io/twitter/follow/fardinalam522?logo=twitter&style=for-the-badge" alt="fardinalam522" /></a> </p>
+<h2 align="center">⚡ SYSTEM STATUS: <span style="color:#00F0FF">ONLINE</span></h2>
 
-🚀 About Me
-🎓 CSE Student at CCN University of Science & Technology
-💼 Founder of Fardinium Innovations – IT & Software Solutions
-📚 Author of Career in Freelancing: The Ultimate Skill Set
-🎥 Instructor of multiple online courses on Freelancing, Digital Marketing, Video Editing, and Programming
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1186261/screenshots/3718653/media/17d36357494f6c40683a48e8954203d9.gif">
+</div>
+
 <p align="left">
-<a href="https://twitter.com/fardinalam522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardinalam522" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fardin-alam-pranto-b5311b23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardin-alam-pranto-b5311b23" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21641597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21641597" height="30" width="40" /></a>
-<a href="https://fb.com/fardin.alam.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin.alam.p" height="30" width="40" /></a>
-<a href="https://instagram.com/fardin.alam.pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fardin.alam.pranto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fardinalampranto1394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fardinalampranto1394" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fardinalam522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fardinalam522" height="30" width="40" /></a>
+  <samp>
+  > Initiating User Profile... <br>
+  > <b>User:</b> Fardin Alam Pranto <br>
+  > <b>Role:</b> Founder & CEO @ <a href="https://fardiniuminnovations.com">Fardinium Innovations</a> <br>
+  > <b>Class:</b> Quantum Architect | Full Stack Developer <br>
+  > <b>Mission:</b> Building the FI Ecosystem & Decoding the Universe via Code.<br>
+  > <b>Experience:</b> Active since 2017 (De-classified in 2019 via Fardinium Innovations) <br>
+  > <b>Location:</b> Bangladesh (Server Node: BD-71)
+  </samp>
 </p>
 
+<br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/FardinAlamPranto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="FardinAlamPranto" /></a></p><br><br>
+<h3 align="left">🛠️ QUANTUM ARSENAL (Tech Stack)</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinalampranto&show_icons=true&locale=en&layout=compact" alt="fardinalampranto" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_Computing-000000?style=for-the-badge&logo=atom&logoColor=00F0FF" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinalampranto&show_icons=true&locale=en" alt="fardinalampranto" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinalampranto&" alt="fardinalampranto" /></p>
+<h3 align="center">🚀 CLASSIFIED PROJECTS (Top Level)</h3>
+
+| Project ID | Type | Status | Description |
+| :--- | :---: | :---: | :--- |
+| **FI Ecosystem** | 🌌 Core Platform | 🟢 **Live** | The ultimate tech ecosystem connecting Students, Freelancers & Buyers. |
+| **Project Trinity** | 🧠 AI/System | 🟡 **Beta** | Next-gen AI integration architecture. |
+| **Cumilla e-sheba** | 📱 Service App | 🟢 **Live** | Digital service platform for Cumilla city. |
+| **Quakely** | ⚠️ Disaster Mgmt | 🛠️ **Dev** | Real-time Earthquake alert system. |
+| **Bhairab City** | 🏙️ Smart City | 🟢 **Live** | Urban management software solution. |
+
+> *Total Deployments: 300+ Apps & Websites delivered successfully.*
+
+---
+
+<h3 align="center">📊 MAIN FRAME STATISTICS</h3>
+
+<div align="center">
+  <a href="https://github.com/fardinalampranto">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardinalampranto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/fardinalampranto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinalampranto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="180" alt="languages graph" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardinalampranto&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF" alt="streak stats" />
+</div>
+
+---
+
+<h3 align="center">📡 ESTABLISH UPLINK</h3>
+
+<p align="center">
+<a href="https://facebook.com/fardin.alam.p" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/fardin-alam-pranto-b5311b23" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/c/fardinalampranto1394" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/fardinalam522" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=fardinalampranto&label=PROFILE+VIEWS&color=00F0FF&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=fardinalampranto&label=PROFILE+VIEWS&color=00F0FF&style=flat-square" alt="views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

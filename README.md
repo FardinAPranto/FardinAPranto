@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Quantum+Architect;Founder+of+Fardinium+Innovations;Social+Entrepreneur+%40+Ichhe-Puron;Building+Scalable+Tech+Ecosystems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Quantum+Architect;Founder+of+Fardinium+Innovations;Social+Entrepreneur+%40+Ichhe-Puron;Building+Scalable+Tech+Ecosystems" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -73,13 +73,13 @@ Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committe
     <td align="center">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
     <td align="center">
@@ -118,7 +118,7 @@ Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committe
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FardinAPranto&theme=radical&hide_border=false" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=FardinAPranto&theme=radical&hide_border=false" alt="streak stats" />
 </div>
 
 ---
@@ -126,7 +126,7 @@ Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committe
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=25&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=The+only+way+to+do+great+work+is+to+love+what+you+do+💡;Opportunities+don't+happen.+You+create+them+🚀;Dream+big.+Start+small.+Act+now+🌟" alt="Quotes" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=25&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=The+only+way+to+do+great+work+is+to+love+what+you+do+💡;Opportunities+don't+happen.+You+create+them+🚀;Dream+big.+Start+small.+Act+now+🌟" alt="Quotes" />
   </a>
   
   <br><br>
